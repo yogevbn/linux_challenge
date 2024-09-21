@@ -1,4 +1,4 @@
-# OpsSchool Admission - The Technical Challenge
+# Welcome to - The Technical Challenge
 
 ### FIRST AND MOST IMPORTANT GUIDLINES
 
